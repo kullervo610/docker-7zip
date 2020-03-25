@@ -1,5 +1,5 @@
 # docker-7zip
-Experimental docker container for cli version of 7-zip archive tool (https://www.7-zip.org/) based on the latest alpine linux with bash shell installed.
+Experimental docker utility container for cli version of 7-zip archive tool (https://www.7-zip.org/) based on the latest alpine linux with bash shell installed.
 
 How to use
 ---
