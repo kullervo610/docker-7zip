@@ -1,0 +1,8 @@
+version: '2.3'
+
+services:
+  7zip:
+    image: kullervo610/7zip:latest
+    network_mode: none
+    volumes: 
+      - /share/Data:/storage
